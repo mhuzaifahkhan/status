@@ -40,17 +40,19 @@
     "url": "https://doccla-dev.oth.io/clinician/login/auth",
     "icon": "https://icons.duckduckgo.com/ip3/doccla-dev.oth.io.ico",
     "slug": "oth-dev-environment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 300,
-    "timeWeek": 402,
-    "timeMonth": 418,
-    "timeYear": 418,
-    "dailyMinutesDown": {}
+    "time": 413,
+    "timeDay": 312,
+    "timeWeek": 393,
+    "timeMonth": 413,
+    "timeYear": 413,
+    "dailyMinutesDown": {
+      "2023-02-18": 0
+    }
   }
 ]
