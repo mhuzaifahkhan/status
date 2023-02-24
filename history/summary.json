@@ -4,18 +4,20 @@
     "url": "https://www.doccla.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.doccla.com.ico",
     "slug": "doccla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 311,
-    "timeWeek": 234,
-    "timeMonth": 267,
-    "timeYear": 267,
-    "dailyMinutesDown": {}
+    "time": 800,
+    "timeDay": 7753,
+    "timeWeek": 2104,
+    "timeMonth": 800,
+    "timeYear": 800,
+    "dailyMinutesDown": {
+      "2023-02-24": 0
+    }
   },
   {
     "name": "Middleware (Dev) Environment",
